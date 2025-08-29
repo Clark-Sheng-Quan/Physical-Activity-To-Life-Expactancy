@@ -1,0 +1,10 @@
+name: application
+title:
+username: physical-activity-g-19-1
+account: physical-activity-g-19-1
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13104183
+bundleId: 9368167
+url: https://physical-activity-g-19-1.shinyapps.io/application/
+version: 1
