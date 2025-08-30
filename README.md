@@ -1,4 +1,4 @@
-# 🏃‍♀️ Physical Activity vs Health
+# 🏃‍♀️ Physical Activity To Life Expactancy
 
 An interactive web application built with **R** and **Shiny** to explore the relationship between physical activity and health indicators.  
 
